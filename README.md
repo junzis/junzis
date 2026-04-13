@@ -14,7 +14,7 @@ I am an assistant professor at TU Delft, researching air transportation, data sc
 
 - 📦 [pyModeS](https://github.com/junzis/pymodes)
 - 📦 [OpenAP](https://github.com/junzis/openap)
-- 📦 [TOP](https://github.com/junzis/openap-top)
+- 📦 [OpenTOP](https://github.com/junzis/opentop)
 - 📦 [ContrailSeg](https://github.com/junzis/contrail-seg)
 - 📦 [pyopensky](https://github.com/open-aviation/pyopensky)
 - 📦 [fastmeteo](https://github.com/open-aviation/fastmeteo)
